@@ -1,0 +1,42 @@
+.btn-primary{
+    background: #007bff;
+}
+.btn-success{
+    background: #28a745;
+}
+.btn-danger{
+    background: #dc3545;
+}
+.btn-warning{
+    background: #ffc107;
+}
+.btn-dark{
+    background: #343a40;
+}
+:hover .warning{
+
+}
+.btn{
+    display: inline-block; 
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-out-primary{
+    color: #007bff;
+    border-color: #007bff;
+}
+.btn-out-success{
+    background: #28a745;
+}
+.btn-out-danger{
+    background: #dc3545;
+}
+.btn-out-warning{
+    background: #ffc107;
+}
+.btn-out-dark{
+    background: #343a40;
+}
