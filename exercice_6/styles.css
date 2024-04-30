@@ -35,7 +35,8 @@ a{
     border-radius: 10px;    
     display: inline-block;   
     position: absolute;
-    right: 20%;
+    right: 24%;
+    text-decoration: none;
 }
 .circle{
     width: 10px;
